@@ -7,4 +7,4 @@
 - 💬 Ask me about : Data Science, Fullstack Web Development, Generative Art
 - 📫 How to reach me: https://www.linkedin.com/in/hamza-ali-rizvi-643251148/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like trains.
+- ⚡ Fun fact: I make generative art in Java on instagram at instagram.com/hamza.ryz .
