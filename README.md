@@ -8,4 +8,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/hamza-ali-rizvi-643251148/ or my email: hamzaryzvy(at)gmail(dot)com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make generative art in Java on instagram at instagram.com/hamza.ryz .
+#### Also, here's a cat shooting lasers at flying pickles in outer space:
 ![Alt Text](https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif)
