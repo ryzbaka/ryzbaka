@@ -1,5 +1,4 @@
 ### Hello, friend. 👋
-- ✈ Software Engineer at Amadeus Software Labs.
 - CS graduate from Punjab Engineering College, Chandigarh with experience in building ETL pipelines on distributed computing platforms, statistical analysis, machine learning, fullstack web development, generative art and mainframe computing.
 - 💻 Former Intern at Airbus (Commercial Aircrafts Division) and the National University of Singapore.
 - 🔭 Currently working on : PyLot, a web based IDE for Python development.
