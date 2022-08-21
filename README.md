@@ -1,5 +1,5 @@
 ### Hello, friend. 👋
-- ✈ SDE-1 at Amadeus.
+- ✈ Software Engineer at JPMorgan Chase & Co. 
 - 🎓 CS graduate from Punjab Engineering College, Chandigarh with experience in building ETL pipelines on distributed computing platforms, statistical analysis, machine learning, fullstack web development, generative art and mainframe computing.
 - 💻 Former Intern at Airbus and the National University of Singapore.
 - 🔭 Currently working on : PyLot, a web based IDE for Python development.
