@@ -1,4 +1,4 @@
-### Hello, friend. 👋
+<!-- ### Hello, friend. 👋
 - 🐱‍💻 Software Engineer at JPMorgan Chase & Co. 
 - 🎓 CS graduate from Punjab Engineering College, Chandigarh with experience in building ETL pipelines on distributed computing platforms, statistical analysis, machine learning, fullstack web development, generative art and mainframe computing.
 - 💻 Former Intern at Airbus and the National University of Singapore.
@@ -7,5 +7,5 @@
 - 💬 Ask me about : Data Science, Fullstack Web Development, Computer Graphics and Generative Art
 - 📫 How to reach me: https://www.linkedin.com/in/hamza-ali-rizvi-643251148/ or my email: hamzaryzvy(at)gmail(dot)com
 - 🌐 [My website](https://ryzbaka.github.io)
-#### Also, here's a cat shooting lasers at pickles floating in outer space:
+#### Also, here's a cat shooting lasers at pickles floating in outer space: -->
 ![Alt Text](https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif)
